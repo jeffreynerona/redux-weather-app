@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
-  "version": "1.0.0",
-  "description": "Simple starter package for Redux with made with create-react-app",
+  "name": "redux-weather-app",
+  "version": "0.1.0",
+  "description": "Redux weather app",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
@@ -10,7 +10,7 @@
     "react-scripts": "1.0.14",
     "redux": "^3.7.2"
   },
-  "repository": "git@github.com:jeffreynerona/redux-simple-starter.git",
+  "repository": "git@github.com:jeffreynerona/redux-weather-app.git",
   "author": "Jeffrey Nerona",
   "scripts": {
     "start": "react-scripts start",
